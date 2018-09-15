@@ -17,7 +17,7 @@ By our opinion, you don't need to cover it with many ingredients to understand a
 Our biggest surprise was that there are many Famoso across Canada, we could not imagine such a good result from a franchise.
 Another good note is that, on the menu, the international pizzas have been separated by the italian ones, showing respect for the origins of this recipe.
 
-![stapizza1](https://github.com/FoodAbout/foodabout.github.io/tree/master/assets/img/famoso01.jpg) ![stapizza2](https://github.com/FoodAbout/foodabout.github.io/tree/master/assets/img/famoso02.jpg)
+![stapizza1]({{site.baseurl}}/assets/img/famoso01.jpg) ![stapizza2]({{site.baseurl}}/assets/img/famoso02.jpg)
 
 ### Our Perfect dine at Famoso :
 - Ceasars cocktail
@@ -29,6 +29,6 @@ The service sometimes lacks of preparation and attention towards the guests, may
 
 For us it is a safe place, the atmosphere is friendly, of course during the weekend it can be more frantic but always a pleasure to go there.
 
-![dinner](https://github.com/FoodAbout/foodabout.github.io/tree/master/assets/img/famoso04.jpg)
+![dinner]({{site.baseurl}}/assets/img/famoso04.jpg)
 
 
