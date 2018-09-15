@@ -4,7 +4,7 @@ title: Famoso - Neapolitan pizzeria
 date: 2018-09-14 00:00:00 +0300
 description:  # Add post description (optional)
 img: famoso03.jpg # Add image post (optional)
-tags: [pizza, italian, safe place, Canada]
+tags: [pizza, Italian, safe place, Canada]
 author: foodabout # Add name author (optional)
 ---
 
