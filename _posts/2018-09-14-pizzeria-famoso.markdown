@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Famoso - Neapolitan pizzeria
-date: 2018-09-14 00:00:20 +0300
+date: 2018-09-14 00:00:00 +0300
 description:  # Add post description (optional)
 img: famoso03.jpg # Add image post (optional)
-tags: [pizza, italian, safe_place]
+tags: [pizza, italian, safe place, Canada]
 author: foodabout # Add name author (optional)
 ---
 
@@ -16,7 +16,9 @@ Talking about the Queen of all the pizzas, the Margherita, we noticed that the d
 By our opinion, you don't need to cover it with many ingredients to understand and recognize the unique taste of a well done traditional pizza.
 Our biggest surprise was that there are many Famoso across Canada, we could not imagine such a good result from a franchise.
 Another good note is that, on the menu, the international pizzas have been separated by the italian ones, showing respect for the origins of this recipe.
- 
+
+![stapizza1](https://github.com/FoodAbout/foodabout.github.io/tree/master/assets/img/famoso01.jpg) ![stapizza2](https://github.com/FoodAbout/foodabout.github.io/tree/master/assets/img/famoso02.jpg)
+
 ### Our Perfect dine at Famoso :
 - Ceasars cocktail
 - Margherita or Marinara(this one with double tomato sauce), no added parmezan.
@@ -25,6 +27,8 @@ Another good note is that, on the menu, the international pizzas have been separ
 ### Cons
 The service sometimes lacks of preparation and attention towards the guests, maybe because of staff's turnover
 
-For us it is a safe place, the atmosphere is friendly, of course during the weekend it can be more frantic but always a pleasure to go there.  
+For us it is a safe place, the atmosphere is friendly, of course during the weekend it can be more frantic but always a pleasure to go there.
+
+![dinner](https://github.com/FoodAbout/foodabout.github.io/tree/master/assets/img/famoso04.jpg)
 
 
